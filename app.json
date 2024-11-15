@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "reusable ui",
-    "slug": "reusable ui",
+    "name": "rn shadui",
+    "slug": "rn shadui",
     "version": "1.0.0",
+    "newArchEnabled": true,
 
     "scheme": "reusable ui",
     "web": {
