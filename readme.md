@@ -133,7 +133,7 @@ rn-shadui/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rn-shadui.git
+git clone https://github.com/includeHasan/rn-shadui.git
 
 # Install dependencies
 npm install
